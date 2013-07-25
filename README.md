@@ -111,3 +111,9 @@ The widget can be run either from an external host (i.e. github) or from your ow
         </widgetDef>
 
 Running the widget locally has the advantage of speed and security.
+
+
+OpenNTF 
+------
+This project is an OpenNTF project, and is available under the Apache License V2.0.
+All other aspects of the project, including contributions, defect reports, discussions, feature requests and reviews are subject to the [OpenNTF Terms of Use](http://openntf.org/Internal/home.nsf/dx/Terms_of_Use).
